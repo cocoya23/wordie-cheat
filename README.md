@@ -21,6 +21,8 @@
 
 
 ## Other languages
+You can download other dictionaries from [here](http://www.gwicks.net/dictionaries.htm)
+
 Load your the desire laguage word list and change the file name in the following line:
 
 ```javascript
